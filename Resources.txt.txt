@@ -1,0 +1,3 @@
+RISHAB'S PYTHON PATH
+1. Havard CS50 Python course
+2. Microsoft learn - Introduction to python 
